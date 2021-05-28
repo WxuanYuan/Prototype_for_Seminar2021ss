@@ -1,6 +1,7 @@
 # Prototype_for_Seminar2021ss
 This prototype is about obtaining the gradient of a quantum circuit with parameter shift rule and its possible use cases.
-All codes are written in .ipynb, you can run them directly using github.
+All codes are written in .ipynb, you can run them directly using github. If github cannot execute the code completely, you can run it on IBM's online quantum lab:
+https://quantum-computing.ibm.com/lab/
 
 Code list and its corresponding part in slides：
 1. PSR_Visualisation.ipynb: Parameter shift rule visualization. (page 23)
